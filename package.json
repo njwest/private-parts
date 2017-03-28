@@ -1,6 +1,6 @@
 {
   "name": "PrivateParts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Lookout <contact@lookout.com>",
   "description": "A visualization framework for privacy policies",
   "contributors": [
@@ -9,8 +9,9 @@
     "Irene Liu <irene.liu@lookout.com>",
     "Steve Regester <egeste@lookout.com>",
     "Bruno Bergher <bruno@lookout.com>",
-    "Derek Halliday <derek@lookout.com>"
-  ],
+    "Derek Halliday <derek@lookout.com>",
+    "Nick West <nick@westlei.com> [Pasted package.json fix from original Lookout issues list xD]"
+    ],
   "repository": {
     "type": "git",
     "url": "https://github.com/lookout/private-parts.git"
@@ -47,6 +48,6 @@
     "grunt-contrib-uglify": "~0.3.2",
     "grunt-autoprefixer": "~0.7.0",
     "grunt-autoshot": "~0.2.0",
-    "grunt-html-smoosher": "~0.1.3"
+    "grunt-html-smoosher-install-fix":"latest"
   }
 }
