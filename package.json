@@ -1,6 +1,6 @@
 {
   "name": "PrivateParts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Lookout <contact@lookout.com>",
   "description": "A visualization framework for privacy policies",
   "contributors": [
@@ -10,7 +10,7 @@
     "Steve Regester <egeste@lookout.com>",
     "Bruno Bergher <bruno@lookout.com>",
     "Derek Halliday <derek@lookout.com>",
-    "Nick West <nick@westlei.com> [Pasted package.json fix from original Lookout issues list xD]"
+    "Nick West <nick@westlei.com> [Package.json and Gruntfile.coffee fixes implemented in this repo]"
   ],
   "repository": {
     "type": "git",
